@@ -1,11 +1,12 @@
 {
   "name": "ng-generatorform",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generator ",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "buildg": "ng build generator",
     "test": "ng test",
     "lint": "ng lint"
   },
