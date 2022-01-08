@@ -1,6 +1,6 @@
 {
   "name": "ng-generatorform",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Generator ",
   "scripts": {
     "ng": "ng",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VahagShahinyan/angular-generator.git",
+    "url": "git+https://github.com/VahagShahinyan/angular-generator.git"
   },
   "keywords": [
     "generator"
@@ -22,16 +22,22 @@
   "homepage": "https://github.com/VahagShahinyan/angular-generator.git#readme",
   "author": "Vahag",
   "license": "ISC",
-  "private": true,
   "dependencies": {
     "@angular/animations": "~10.1.0",
     "@angular/common": "~10.1.0",
     "@angular/compiler": "~10.1.0",
     "@angular/core": "~10.1.0",
     "@angular/forms": "~10.1.0",
+    "@angular/material": "^13.1.1",
     "@angular/platform-browser": "~10.1.0",
     "@angular/platform-browser-dynamic": "~10.1.0",
     "@angular/router": "~10.1.0",
+    "@kolkov/angular-editor": "^1.2.0",
+    "@ngx-formly/bootstrap": "^5.10.22",
+    "@ngx-formly/core": "^5.10.22",
+    "@ngx-formly/material": "^5.10.28",
+    "@tinymce/tinymce-angular": "^4.2.4",
+    "ngx-dropzone": "^3.0.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
